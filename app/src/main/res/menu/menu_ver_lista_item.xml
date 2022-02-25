@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/editar_dieta_menu_item_ver"
+        android:title="Editar" />
+    <item
+        android:id="@+id/eliminar_dieta_menu_item_ver"
+        android:title="Eliminar" />
+</menu>

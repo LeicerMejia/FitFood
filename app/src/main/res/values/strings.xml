@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fit Food</string>
+    <string name="disculpa">Oops parece que aún no hay dietas recomendadas para ti</string>
+    <string name="rol_text">Nota: Si escoge "Dietista" podra subir sus dietas.
+        Si escoge "Consumidor" sólo podrá ver los planes alimenticios que los dietistas suban</string>
+    <string name="lorem">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronico</string>
+    <string name="texto_recuperacion">¿Olvidaste tu contraseña o tus datos de acceso? No te preocupes te ayudamos a recuperarla.</string>
+</resources>

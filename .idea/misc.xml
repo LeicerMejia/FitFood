@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/alerta_background.xml" value="0.2984375" />
+        <entry key="app/src/main/res/drawable/arrow_back.xml" value="0.2984375" />
+        <entry key="app/src/main/res/drawable/background.xml" value="0.2984375" />
+        <entry key="app/src/main/res/drawable/searchview_style.xml" value="0.2984375" />
+        <entry key="app/src/main/res/drawable/user.xml" value="0.2984375" />
+        <entry key="app/src/main/res/layout/activity_calcular_imc.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/activity_dietas_guardadas.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/activity_editar_perfil.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/activity_editar_perfil2.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/activity_listado_de_dietas.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/activity_principal_comsumidor.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/activity_principal_dietista.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/activity_recuperacion.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/activity_registro.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/activity_subir_dieta.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/activity_usuario_detalle.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/activity_ver_dietas.xml" value="0.27794871794871795" />
+        <entry key="app/src/main/res/layout/activity_ver_seguidores.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/full_screen_dialog_editar_dieta.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/liset_style_seguidores.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/list_item.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/list_style_dietas_guardadas.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/list_style_dietas_total.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/lista_ver_dietas_style.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/menu/menu_dietas_guardadas.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/menu/menu_full_screen_dialog_edit.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/menu/menu_ver_lista_item.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2984375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
